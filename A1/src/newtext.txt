@@ -1,0 +1,14 @@
+{
+  "args": {}, 
+  "data": "'{\"Assignment: 1\"}'", 
+  "files": {}, 
+  "form": {}, 
+  "headers": {
+    "Content-Length": "19", 
+    "Host": "a0207c42-pmhttpbin-pmhttpb-c018-592832243.us-east-1.elb.amazonaws.com", 
+    "X-Amzn-Trace-Id": "Root=1-5f7b6278-3a702ad7074ea79575488552"
+  }, 
+  "json": null, 
+  "origin": "135.0.249.58", 
+  "url": "http://a0207c42-pmhttpbin-pmhttpb-c018-592832243.us-east-1.elb.amazonaws.com/post"
+}
